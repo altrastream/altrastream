@@ -157,7 +157,7 @@ const buttonController = {
             // Add phone link to all other buttons
             button.addEventListener('click', (e) => {
                 e.preventDefault();
-                window.location.href = 'tel:+18334881043';
+                window.location.href = 'tel:+18778681270';
             });
         });
     }
